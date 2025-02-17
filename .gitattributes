@@ -1,0 +1,12 @@
+# Set line endings
+* text=auto
+
+# Treat source files as text
+*.js text
+*.css text
+*.html text
+
+# Handle binary files properly
+*.png binary
+*.jpg binary
+*.zip binary
